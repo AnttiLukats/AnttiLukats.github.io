@@ -1,3 +1,5 @@
+Copyright (c) 7 AG Antti Lukats
+
 ### Open Love License (OLL) v1.0
 
 **Preamble**  
